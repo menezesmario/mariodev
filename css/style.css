@@ -1,0 +1,43 @@
+body {
+  /*background: #363636;*/
+  background-image: url(https://bit.ly/2Z3pKS6);
+  background-size: auto 100vh;
+  font-family: Arial;
+}
+
+.menu {
+  background-color: white;
+  color: white;
+  opacity: 0.5;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.menu li {
+  color: white;
+  list-style: none;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: whitesmoke;
+  text-align: center;
+}
+
+
+
+
